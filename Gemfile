@@ -7,7 +7,7 @@ gem 'pg'
 gem 'figaro'
 gem 'jbuilder', '~> 2.0'
 gem 'redis'
-gem 'coffee_script'
+gem "coffee-script"
 
 gem 'sass-rails'
 gem 'jquery-rails'
